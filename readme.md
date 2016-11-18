@@ -1,5 +1,7 @@
-## Angular2 Express slim starter
-### Heroku ready wih SystemJS builder
+# Spotify API based app on a tut
+( https://www.udemy.com/learn-angular-2-development-by-building-10-apps/learn/v4/overview )
+
+### Used Angular2 Express slim starter Heroku ready wih SystemJS builder
 
 - Angular 2 ( https://angular.io/docs/ts/latest/quickstart.html )
 - Express ( from generator )
